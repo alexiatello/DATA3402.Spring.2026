@@ -1,0 +1,4 @@
+'window':Rectangle(5, 3, 26, 19)
+'house_body':Rectangle(24, 12, 8, 16)
+'door':Rectangle(4, 5, 18, 23)
+'sun':Circle(6, 52, 7)
